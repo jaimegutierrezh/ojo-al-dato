@@ -1,0 +1,156 @@
+---
+title: "APRENDE PERIODISMO DE DATOS"
+subtitle: "con RTVE"
+title-slide-attributes:
+  data-background-size: contain
+  data-background-opacity: "0.25"
+author: ""
+affiliation: Rtve NOTICIAS
+lang: es
+language: custom_lang.yml
+format: 
+  revealjs:
+    theme: [default, style.scss]
+    chalkboard: true
+    multiplex: true
+    menu:
+      side: left
+      width: normal
+    footer: "[<strong>Jaime Gutiérrez</strong>](https://twitter.com/JaimeGutierrezH) • Aprende periodismo de datos con RTVE • 27 de abril de 2023"
+    slide-number: c/t
+execute:
+  echo: true
+---
+
+# ¡Bienvenidos! {#bienvenidos}
+
+<center>[\@jaimegutierrezh](https://twitter.com/JaimeGutierrezH)<br>jaime.gutierrez\@rtve.es</center>
+
+# ¿Qué es el periodismo de datos? {#intro}
+
+------------------------------------------------------------------------
+
+## ¿Qué es el periodismo de datos?
+
+::: columns
+::: {.column width="50%"}
+[**Es**]{.hl-green} periodismo de datos:
+
+::: incremental
+-   Datos + periodismo
+
+-   Un proceso periodístico
+:::
+:::
+
+::: {.column width="50%"}
+[**No es**]{.hl-red} es periodismo de datos:
+
+::: incremental
+-   Una noticia con datos
+
+-   Una noticia con gráficos
+:::
+:::
+:::
+
+::: incremental
+-   El periodismo de datos requiere que, además de aportar unos datos, el periodista tenga la capacidad de [**analizar**]{.hl-yellow} los datos y [**dialogar**]{.hl-yellow} técnicamente con ellos.
+:::
+
+# ¿Para qué sirve el periodismo de datos?
+
+------------------------------------------------------------------------
+
+## ¿Para qué sirve el periodismo de datos?
+
+::: incremental
+-   Filtrar el flujo de datos
+-   Enriquecer los artículos
+-   Ayudar a entender cuestiones complejas
+-   Encontrar nuevos enfoques e historias únicas más allá de las agencias
+-   Identificar tendencias y monitorizarlas
+-   Dar acceso a datos en los que hay un interés público
+-   Promover interpretaciones independientes de la información oficial
+-   Hacer rendir cuentas al poder
+:::
+
+# ¿Cómo se hace periodismo de datos?
+
+------------------------------------------------------------------------
+
+## El periodismo de datos es un proceso
+
+![](img/proceso_periodismo_datos.png){fig-align="center" width="1200"}
+
+------------------------------------------------------------------------
+
+## El formato importa
+
+![](img/semaforo_datos.png){fig-align="center"}
+
+# ¿Qué hacemos en DatosRTVE?
+
+------------------------------------------------------------------------
+
+## Servicio público
+
+|                                                                                                                  |                                                                                                                     |                                                                                                                   |
+|:----------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------:|
+| [![](img/mapa_covid_rtve.jpeg)](https://www.rtve.es/noticias/20230331/mapa-del-coronavirus-espana/2004681.shtml) | [![](img/ipc_rtve.jpeg)](https://www.rtve.es/noticias/20230414/ipc-cesta-compra-variacion-ultimo-mes/2405889.shtml) | [![](img/mapa_guerra_ucrania_rtve.jpeg)](https://www.rtve.es/noticias/20230423/mapa-guerra-ucrania/2440311.shtml) |
+|                                                   Coronavirus                                                    |                                                         IPC                                                         |                                                  Guerra Ucrania                                                   |
+| [![](img/embalses_rtve.jpeg)](https://www.rtve.es/noticias/20230418/estado-embalses-espana-datos/2281701.shtml)  |      [![](img/mapas_sequia_rtve.jpeg)](https://www.rtve.es/noticias/20230418/sequia-ultima-hora/2438756.shtml)      |     [![](img/incendios_rtve.jpeg)](https://www.rtve.es/noticias/20230417/incendios-ultima-hora/2436349.shtml)     |
+|                                                     Embalses                                                     |                                                       Sequía                                                        |                                                     Incendios                                                     |
+
+------------------------------------------------------------------------
+
+## Reportajes y especiales
+
+|                                                                                                                                                                           |                                                                                                                             |                                                                                                                    |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------:|
+| [![](img/personas_sin_hogar_rtve.jpeg)](https://www.rtve.es/noticias/20221022/relato-invisible-personas-sin-hogar-quienes-estan-calle-interiorizan-estigma/2406672.shtml) | [![](img/oso_pardo_rtve.jpg)](https://www.rtve.es/noticias/20230311/milagro-oso-pardo-animal-salvo-extincion/2428807.shtml) | [![](img/agua_ucrania_rtve.jpeg)](https://www.rtve.es/noticias/20230406/efectos-guerra-ucrania-agua/2435532.shtml) |
+|                                                                            Personas sin hogar                                                                             |                                                         Naturaleza                                                          |                                                   Acceso al agua                                                   |
+
+[![](img/radiografia_sanidad_rtve.jpeg){fig-align="center"}](https://www.rtve.es/noticias/radiografia-sanidad-espana/)
+
+------------------------------------------------------------------------
+
+## Coberturas
+
+|                                                                                                                                                        |                                                                                                                                   |                               |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------:|
+| [![](img/somalia_rtve.jpeg)](https://www.rtve.es/noticias/20230115/mapa-inseguridad-alimentaria-hambre-cuales-son-causas-tiene-solucion/2415626.shtml) | [![](img/terremotos_turquia_rtve.jpeg)](https://www.rtve.es/noticias/20230210/destruccion-terremotos-turquia-datos/2422555.shtml) | ![](img/elecciones_rtve.jpeg) |
+|                                                                   Hambre en Somalia                                                                    |                                                       Terremotos en Turquía                                                       |     Procesos electorales      |
+
+------------------------------------------------------------------------
+
+## No solo en la web
+
+```{=html}
+<iframe width="80%" height="80%" src="https://www.youtube.com/embed/RbcGNoJ7ncg?rel=0&amp;autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+```
+# ¡Manos a la obra!
+
+# [bit.ly/terremotos-turquia](https://jaimegutierrezh.github.io/formacion/ejercicios/2023_terremotos_turquia/index.html)
+
+# [bit.ly/matriculas-universitarias](https://jaimegutierrezh.github.io/formacion/ejercicios/2023_matriculas_universitarias/index.html)
+
+------------------------------------------------------------------------
+
+## Claves finales
+
+::: incremental
+-   🍋 Aprovecha lo que tienes
+
+-   🧠 Entiende los datos
+
+-   ✅ ✅ Comprueba y vuelve a comprobar
+
+-   📖 Cuenta una historia
+
+-   🔍 Pregúntale a Google (o a ChatGPT)
+:::
+
+# Gracias
+
+<center>[\@jaimegutierrezh](https://twitter.com/JaimeGutierrezH)<br>jaime.gutierrez\@rtve.es</center>
